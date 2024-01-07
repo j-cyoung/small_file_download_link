@@ -1780,54 +1780,6 @@
     <nd ref="2364352913" />
     <tag k="highway" v="residential" />
   </way>
-  <way id="319515324" version="15" timestamp="2023-07-21T18:29:45Z" changeset="138826205" uid="5432507" user="cEvLGWiQ">
-    <nd ref="3259350312" />
-    <nd ref="6848874328" />
-    <nd ref="6848874327" />
-    <nd ref="6848874331" />
-    <nd ref="6848874324" />
-    <nd ref="6848874333" />
-    <nd ref="6848874329" />
-    <nd ref="6848874326" />
-    <nd ref="3259350313" />
-    <nd ref="5129130586" />
-    <nd ref="10221372066" />
-    <nd ref="2317019259" />
-    <nd ref="10945218044" />
-    <nd ref="1943411105" />
-    <nd ref="6359958745" />
-    <nd ref="6848874225" />
-    <nd ref="3259350314" />
-    <nd ref="3259350315" />
-    <nd ref="6848874226" />
-    <nd ref="6359958744" />
-    <nd ref="5923932397" />
-    <nd ref="10221384839" />
-    <nd ref="4526106500" />
-    <nd ref="10221372059" />
-    <nd ref="5129130587" />
-    <nd ref="3259350312" />
-    <tag k="addr:city" v="深圳市" />
-    <tag k="addr:district" v="南山区" />
-    <tag k="addr:housenumber" v="2239号" />
-    <tag k="addr:postcode" v="518055" />
-    <tag k="addr:province" v="广东省" />
-    <tag k="addr:street" v="丽水路" />
-    <tag k="alt_name" v="深圳科技图书馆" />
-    <tag k="alt_name:en" v="Shenzhen Science and Technology Library" />
-    <tag k="alt_name:zh" v="深圳科技图书馆" />
-    <tag k="amenity" v="library" />
-    <tag k="layer" v="1" />
-    <tag k="name" v="深圳大学城图书馆" />
-    <tag k="name:en" v="University Town Library of Shenzhen" />
-    <tag k="name:zh" v="深圳大学城图书馆" />
-    <tag k="name:zh-Hans" v="深圳大学城图书馆" />
-    <tag k="name:zh-Hant" v="深圳大學城圖書館" />
-    <tag k="phone" v="+86 755 8886 6634" />
-    <tag k="source" v="http://lib.utsz.edu.cn/" />
-    <tag k="website" v="http://lib.utsz.edu.cn/" />
-    <tag k="wheelchair" v="yes" />
-  </way>
   <way id="319515452" version="15" timestamp="2023-10-31T19:40:12Z" changeset="143439646" uid="12500589" user="tg4567">
     <nd ref="4526106515" />
     <nd ref="4526106506" />
@@ -1890,18 +1842,6 @@
     <tag k="wikidata" v="Q253826" />
     <tag k="wikimedia_commons" v="Category:Harbin Institute of Technology, Shenzhen" />
     <tag k="wikipedia" v="zh:哈尔滨工业大学（深圳）" />
-  </way>
-  <way id="456349156" version="8" timestamp="2023-06-02T00:44:11Z" changeset="136850126" uid="4892967" user="XD346">
-    <nd ref="4526106522" />
-    <nd ref="4526106523" />
-    <nd ref="4526106524" />
-    <nd ref="4526106525" />
-    <nd ref="4526106522" />
-    <tag k="addr:city" v="深圳市" />
-    <tag k="addr:district" v="南山区" />
-    <tag k="addr:province" v="广东省" />
-    <tag k="addr:street" v="学苑大道" />
-    <tag k="building:material" v="glass" />
   </way>
   <way id="479412139" version="9" timestamp="2023-06-02T00:44:11Z" changeset="136850126" uid="4892967" user="XD346">
     <nd ref="2364241998" />
@@ -2132,21 +2072,6 @@
     <tag k="leisure" v="pitch" />
     <tag k="sport" v="soccer" />
   </way>
-  <way id="539609841" version="6" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="5221252669" />
-    <nd ref="5221252670" />
-    <nd ref="5221252671" />
-    <nd ref="5221252672" />
-    <nd ref="5221252669" />
-    <tag k="name" v="F栋（学术楼）" />
-    <tag k="name:zh" v="F栋（学术楼）" />
-    <tag k="name:zh-Hans" v="F栋（学术楼）" />
-    <tag k="name:zh-Hant" v="F棟（學術樓）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="F" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
   <way id="539609842" version="1" timestamp="2017-11-10T10:10:07Z" changeset="53662402" uid="4892967" user="XD346">
     <nd ref="5221252673" />
     <nd ref="5221252674" />
@@ -2164,207 +2089,6 @@
     <nd ref="5221252681" />
     <nd ref="5221252682" />
     <nd ref="5221252678" />
-  </way>
-  <way id="539609844" version="6" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="5221252685" />
-    <nd ref="5221252691" />
-    <nd ref="5221252692" />
-    <nd ref="5221252688" />
-    <nd ref="5221252689" />
-    <nd ref="5221252690" />
-    <nd ref="5221252693" />
-    <nd ref="5221252694" />
-    <nd ref="5221252695" />
-    <nd ref="5221252696" />
-    <nd ref="5221252686" />
-    <nd ref="5221252687" />
-    <nd ref="5221252685" />
-    <tag k="name" v="A栋（教学楼I）" />
-    <tag k="name:zh" v="A栋（教学楼I）" />
-    <tag k="name:zh-Hans" v="A栋（教学楼I）" />
-    <tag k="name:zh-Hant" v="A棟（教學樓I）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="A" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="539609845" version="6" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="5221252697" />
-    <nd ref="5221252698" />
-    <nd ref="5221252699" />
-    <nd ref="5221252700" />
-    <nd ref="5221252701" />
-    <nd ref="5221252702" />
-    <nd ref="5221252703" />
-    <nd ref="5221252704" />
-    <nd ref="5221252705" />
-    <nd ref="5221252706" />
-    <nd ref="5221252697" />
-    <tag k="name" v="G栋（理学楼）" />
-    <tag k="name:zh" v="G栋（理学楼）" />
-    <tag k="name:zh-Hans" v="G栋（理学楼）" />
-    <tag k="name:zh-Hant" v="G棟（理學樓）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="G" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="539609846" version="5" timestamp="2023-01-18T10:03:36Z" changeset="131415101" uid="3627342" user="cnvery">
-    <nd ref="5221252707" />
-    <nd ref="5221252708" />
-    <nd ref="5221252709" />
-    <nd ref="5221252710" />
-    <nd ref="5221252711" />
-    <nd ref="5221252712" />
-    <nd ref="5221252713" />
-    <nd ref="5221252714" />
-    <nd ref="5221252730" />
-    <nd ref="5221252715" />
-    <nd ref="5221252729" />
-    <nd ref="5221252720" />
-    <nd ref="5221252728" />
-    <nd ref="5221252716" />
-    <nd ref="5221252727" />
-    <nd ref="5221252726" />
-    <nd ref="5221252717" />
-    <nd ref="5221252725" />
-    <nd ref="5221252724" />
-    <nd ref="5221252718" />
-    <nd ref="5221252723" />
-    <nd ref="5221252722" />
-    <nd ref="5221252721" />
-    <nd ref="5221252719" />
-    <nd ref="5221252707" />
-    <tag k="amenity" v="restaurant" />
-    <tag k="fast_food" v="cafeteria" />
-    <tag k="name" v="荔园一食堂" />
-    <tag k="name:zh" v="荔园一食堂" />
-    <tag k="name:zh-Hans" v="荔园一食堂" />
-    <tag k="name:zh-Hant" v="荔園一食堂" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="539609847" version="5" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="5221252731" />
-    <nd ref="5221252732" />
-    <nd ref="5221252733" />
-    <nd ref="5221252734" />
-    <nd ref="5221252735" />
-    <nd ref="5221252736" />
-    <nd ref="5221252737" />
-    <nd ref="5221252738" />
-    <nd ref="5221252739" />
-    <nd ref="5221252740" />
-    <nd ref="10564609299" />
-    <nd ref="5221252741" />
-    <nd ref="5221252742" />
-    <nd ref="5221252731" />
-    <tag k="name" v="荔园2" />
-    <tag k="name:zh" v="荔园2" />
-    <tag k="name:zh-Hans" v="荔园2" />
-    <tag k="name:zh-Hant" v="荔園2" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="539609848" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="5221252743" />
-    <nd ref="5221252744" />
-    <nd ref="5221252745" />
-    <nd ref="5221252746" />
-    <nd ref="5221252747" />
-    <nd ref="5221252748" />
-    <nd ref="5221252749" />
-    <nd ref="5221252750" />
-    <nd ref="5221252751" />
-    <nd ref="5221252752" />
-    <nd ref="5221252753" />
-    <nd ref="5221252754" />
-    <nd ref="5221252743" />
-    <tag k="name" v="荔园3" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="539609849" version="5" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="5221252755" />
-    <nd ref="5221252756" />
-    <nd ref="5221252760" />
-    <nd ref="5221252761" />
-    <nd ref="5221252762" />
-    <nd ref="5221252759" />
-    <nd ref="5221252757" />
-    <nd ref="5221252758" />
-    <nd ref="5221252763" />
-    <nd ref="5221252766" />
-    <nd ref="5221252765" />
-    <nd ref="5221252764" />
-    <nd ref="5221252755" />
-    <tag k="name" v="荔园1" />
-    <tag k="name:zh" v="荔园1" />
-    <tag k="name:zh-Hans" v="荔园1" />
-    <tag k="name:zh-Hant" v="荔園1" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="539609850" version="5" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="5221252767" />
-    <nd ref="5221252768" />
-    <nd ref="5221252769" />
-    <nd ref="5221252770" />
-    <nd ref="5221252771" />
-    <nd ref="5221252772" />
-    <nd ref="5221252773" />
-    <nd ref="5221252774" />
-    <nd ref="5221252775" />
-    <nd ref="5221252776" />
-    <nd ref="5221252777" />
-    <nd ref="5221252778" />
-    <nd ref="5221252767" />
-    <tag k="name" v="荔园4" />
-    <tag k="name:zh" v="荔园4" />
-    <tag k="name:zh-Hans" v="荔园4" />
-    <tag k="name:zh-Hant" v="荔園4" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="539609851" version="5" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="5221252779" />
-    <nd ref="5221252780" />
-    <nd ref="5221252781" />
-    <nd ref="5221252782" />
-    <nd ref="5221252783" />
-    <nd ref="5221252784" />
-    <nd ref="5221252785" />
-    <nd ref="5221252786" />
-    <nd ref="5221252787" />
-    <nd ref="5221252788" />
-    <nd ref="5221252789" />
-    <nd ref="5221252790" />
-    <nd ref="5221252779" />
-    <tag k="name" v="荔园5" />
-    <tag k="name:zh" v="荔园5" />
-    <tag k="name:zh-Hans" v="荔园5" />
-    <tag k="name:zh-Hant" v="荔園5" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="539609852" version="5" timestamp="2023-01-18T10:03:36Z" changeset="131415101" uid="3627342" user="cnvery">
-    <nd ref="5221252791" />
-    <nd ref="5221252792" />
-    <nd ref="5221252793" />
-    <nd ref="5221252794" />
-    <nd ref="5221252791" />
-    <tag k="amenity" v="restaurant" />
-    <tag k="fast_food" v="cafeteria" />
-    <tag k="name" v="荔园二食堂" />
-    <tag k="name:zh" v="荔园二食堂" />
-    <tag k="name:zh-Hans" v="荔园二食堂" />
-    <tag k="name:zh-Hant" v="荔園二食堂" />
-    <tag k="wheelchair" v="yes" />
   </way>
   <way id="539609853" version="5" timestamp="2022-02-09T15:46:57Z" changeset="117208697" uid="4027611" user="Coco418cheng">
     <nd ref="5221252795" />
@@ -2660,183 +2384,6 @@
     <nd ref="2364241986" />
     <tag k="highway" v="unclassified" />
   </way>
-  <way id="722675376" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993774" />
-    <nd ref="6778993775" />
-    <nd ref="6778993776" />
-    <nd ref="6778993777" />
-    <nd ref="6778993778" />
-    <nd ref="6778993779" />
-    <nd ref="6778993912" />
-    <nd ref="6778993911" />
-    <nd ref="6778993780" />
-    <nd ref="6778993781" />
-    <nd ref="6778993782" />
-    <nd ref="6778993783" />
-    <nd ref="6778993774" />
-    <tag k="name" v="H栋（主楼）" />
-    <tag k="name:zh" v="H栋（主楼）" />
-    <tag k="name:zh-Hans" v="H栋（主楼）" />
-    <tag k="name:zh-Hant" v="H棟（主樓）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="H" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675377" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993784" />
-    <nd ref="6778993885" />
-    <nd ref="10943634269" />
-    <nd ref="10943634270" />
-    <nd ref="6778993886" />
-    <nd ref="6778993887" />
-    <nd ref="6778993784" />
-    <tag k="name" v="T2栋（教学楼II）" />
-    <tag k="name:zh" v="T2栋（教学楼II）" />
-    <tag k="name:zh-Hans" v="T2栋（教学楼II）" />
-    <tag k="name:zh-Hant" v="T2棟（教學樓II）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="T2" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675378" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993888" />
-    <nd ref="10943634271" />
-    <nd ref="10943634272" />
-    <nd ref="6778993889" />
-    <nd ref="6778993890" />
-    <nd ref="6778993894" />
-    <nd ref="6778993891" />
-    <nd ref="6778993888" />
-    <tag k="name" v="T6栋（教学楼VI）" />
-    <tag k="name:zh" v="T6栋（教学楼VI）" />
-    <tag k="name:zh-Hans" v="T6栋（教学楼VI）" />
-    <tag k="name:zh-Hant" v="T6棟（教學樓VI）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="T6" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675379" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993892" />
-    <nd ref="6778993900" />
-    <nd ref="6778993890" />
-    <nd ref="6778993894" />
-    <nd ref="6778993891" />
-    <nd ref="6778993892" />
-    <tag k="name" v="T5栋（教学楼V）" />
-    <tag k="name:zh" v="T5栋（教学楼V）" />
-    <tag k="name:zh-Hans" v="T5栋（教学楼V）" />
-    <tag k="name:zh-Hant" v="T5棟（教學樓V）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="T5" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675380" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993895" />
-    <nd ref="6778993892" />
-    <nd ref="6778993900" />
-    <nd ref="6778993896" />
-    <nd ref="6778993897" />
-    <nd ref="6778993895" />
-    <tag k="name" v="T4栋（教学楼IV）" />
-    <tag k="name:zh" v="T4栋（教学楼IV）" />
-    <tag k="name:zh-Hans" v="T4栋（教学楼IV）" />
-    <tag k="name:zh-Hant" v="T4棟（教學樓IV）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="T4" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675381" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993897" />
-    <nd ref="6778993898" />
-    <nd ref="6778993899" />
-    <nd ref="6778993896" />
-    <nd ref="6778993897" />
-    <tag k="name" v="T3栋（教学楼III）" />
-    <tag k="name:zh" v="T3栋（教学楼III）" />
-    <tag k="name:zh-Hans" v="T3栋（教学楼III）" />
-    <tag k="name:zh-Hant" v="T3棟（教學樓III）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="T3" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675382" version="3" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993908" />
-    <nd ref="6778993905" />
-    <nd ref="6778993906" />
-    <nd ref="6778993907" />
-    <nd ref="6778993901" />
-    <nd ref="6778993902" />
-    <nd ref="6778993913" />
-    <nd ref="10943634256" />
-    <nd ref="6778993912" />
-    <nd ref="6778993911" />
-    <nd ref="6778993910" />
-    <nd ref="6778993909" />
-    <nd ref="6778993908" />
-    <tag k="name" v="K栋（实训楼）" />
-    <tag k="name:zh" v="K栋（实训楼）" />
-    <tag k="name:zh-Hans" v="K栋（实训楼）" />
-    <tag k="name:zh-Hant" v="K棟（實訓樓）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="K" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675384" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993914" />
-    <nd ref="6778993915" />
-    <nd ref="6778993916" />
-    <nd ref="6778993917" />
-    <nd ref="6778993914" />
-    <tag k="name" v="J栋（活动中心）" />
-    <tag k="name:zh" v="J栋（活动中心）" />
-    <tag k="name:zh-Hans" v="J栋（活动中心）" />
-    <tag k="name:zh-Hant" v="J棟（活動中心）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="J" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675385" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993918" />
-    <nd ref="6778993919" />
-    <nd ref="6778993920" />
-    <nd ref="6778993921" />
-    <nd ref="6778993922" />
-    <nd ref="6778993923" />
-    <nd ref="6778993924" />
-    <nd ref="6778993925" />
-    <nd ref="6778993928" />
-    <nd ref="10943634228" />
-    <nd ref="10943634227" />
-    <nd ref="6778993929" />
-    <nd ref="6778993918" />
-    <tag k="name" v="哈尔滨工业大学L栋（信息楼）" />
-    <tag k="name:zh" v="哈尔滨工业大学L栋（信息楼）" />
-    <tag k="name:zh-Hans" v="哈尔滨工业大学L栋（信息楼）" />
-    <tag k="name:zh-Hant" v="哈爾濱工業大學L棟（信息樓）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="L" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675386" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993932" />
-    <nd ref="6778993933" />
-    <nd ref="6778993934" />
-    <nd ref="6778993935" />
-    <nd ref="6778993936" />
-    <nd ref="6778993937" />
-    <nd ref="6778993938" />
-    <nd ref="6778993939" />
-    <nd ref="6778993932" />
-    </way>
   <way id="722675396" version="1" timestamp="2019-09-07T08:35:53Z" changeset="74200385" uid="4027611" user="Coco418cheng">
     <nd ref="6778993765" />
     <nd ref="6778993988" />
@@ -2866,139 +2413,10 @@
     <nd ref="6778993991" />
     <tag k="highway" v="steps" />
   </way>
-  <way id="722675399" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778994002" />
-    <nd ref="6778994003" />
-    <nd ref="6778994004" />
-    <nd ref="6778994005" />
-    <nd ref="6778994006" />
-    <nd ref="6778994007" />
-    <nd ref="6778994008" />
-    <nd ref="6778994009" />
-    <nd ref="6778994010" />
-    <nd ref="6778994011" />
-    <nd ref="6778994012" />
-    <nd ref="6778994013" />
-    <nd ref="6778994002" />
-    <tag k="name" v="荔园6" />
-    <tag k="name:zh" v="荔园6" />
-    <tag k="name:zh-Hans" v="荔园6" />
-    <tag k="name:zh-Hant" v="荔園6" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675400" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778994014" />
-    <nd ref="6778994015" />
-    <nd ref="6778994016" />
-    <nd ref="6778994017" />
-    <nd ref="6778994018" />
-    <nd ref="6778994068" />
-    <nd ref="6778994019" />
-    <nd ref="6778994071" />
-    <nd ref="6778994020" />
-    <nd ref="6778994021" />
-    <nd ref="6778994022" />
-    <nd ref="6778994023" />
-    <nd ref="6778994024" />
-    <nd ref="6778994025" />
-    <nd ref="6778994014" />
-    <tag k="name" v="荔园7" />
-    <tag k="name:zh" v="荔园7" />
-    <tag k="name:zh-Hans" v="荔园7" />
-    <tag k="name:zh-Hant" v="荔園7" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675401" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778994026" />
-    <nd ref="6778994027" />
-    <nd ref="6778994028" />
-    <nd ref="6778994029" />
-    <nd ref="6778994030" />
-    <nd ref="6778994031" />
-    <nd ref="6778994032" />
-    <nd ref="6778994033" />
-    <nd ref="6778994034" />
-    <nd ref="6778994035" />
-    <nd ref="6778994036" />
-    <nd ref="6778994037" />
-    <nd ref="6778994026" />
-    <tag k="name" v="荔园10" />
-    <tag k="name:zh" v="荔园10" />
-    <tag k="name:zh-Hans" v="荔园10" />
-    <tag k="name:zh-Hant" v="荔園10" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675402" version="4" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778994038" />
-    <nd ref="6778994039" />
-    <nd ref="6778994040" />
-    <nd ref="6778994041" />
-    <nd ref="6778994042" />
-    <nd ref="6778994043" />
-    <nd ref="6778994044" />
-    <nd ref="6778994045" />
-    <nd ref="6778994046" />
-    <nd ref="6778994047" />
-    <nd ref="6778994048" />
-    <nd ref="6778994069" />
-    <nd ref="6778994049" />
-    <nd ref="6778994038" />
-    <tag k="name" v="荔园8" />
-    <tag k="name:zh" v="荔园8" />
-    <tag k="name:zh-Hans" v="荔园8" />
-    <tag k="name:zh-Hant" v="荔園8" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
-  <way id="722675403" version="5" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778994050" />
-    <nd ref="6778994051" />
-    <nd ref="6778994052" />
-    <nd ref="6778994053" />
-    <nd ref="6778994054" />
-    <nd ref="6778994055" />
-    <nd ref="6778994056" />
-    <nd ref="6778994057" />
-    <nd ref="6778994058" />
-    <nd ref="6778994059" />
-    <nd ref="6778994060" />
-    <nd ref="6778994061" />
-    <nd ref="6778994050" />
-    <tag k="name" v="荔园9" />
-    <tag k="name:zh" v="荔园9" />
-    <tag k="name:zh-Hans" v="荔园9" />
-    <tag k="name:zh-Hant" v="荔園9" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
   <way id="722675404" version="2" timestamp="2021-08-29T12:01:21Z" changeset="110409944" uid="11243984" user="Natsu_">
     <nd ref="6778993766" />
     <nd ref="6778994067" />
     <tag k="highway" v="service" />
-  </way>
-  <way id="722675405" version="4" timestamp="2023-01-18T10:03:36Z" changeset="131415101" uid="3627342" user="cnvery">
-    <nd ref="6778994068" />
-    <nd ref="6778994069" />
-    <nd ref="6778994048" />
-    <nd ref="6778994070" />
-    <nd ref="6778994071" />
-    <nd ref="6778994019" />
-    <nd ref="6778994068" />
-    <tag k="amenity" v="restaurant" />
-    <tag k="fast_food" v="cafeteria" />
-    <tag k="name" v="荔园三食堂" />
-    <tag k="name:zh" v="荔园三食堂" />
-    <tag k="name:zh-Hans" v="荔园三食堂" />
-    <tag k="name:zh-Hant" v="荔园三食堂" />
-    <tag k="wheelchair" v="yes" />
   </way>
   <way id="731209048" version="1" timestamp="2019-10-03T22:27:18Z" changeset="75254599" uid="4892967" user="XD346">
     <nd ref="6848874227" />
@@ -3690,17 +3108,6 @@
     <tag k="name:zh" v="平山一路" />
     <tag k="oneway" v="yes" />
   </way>
-  <way id="1076347523" version="2" timestamp="2023-01-18T10:03:36Z" changeset="131415101" uid="3627342" user="cnvery">
-    <nd ref="9870358072" />
-    <nd ref="9870358073" />
-    <nd ref="9870358074" />
-    <nd ref="9870358075" />
-    <nd ref="9870358072" />
-    <tag k="amenity" v="restaurant" />
-    <tag k="name" v="荔园四食堂" />
-    <tag k="smoking" v="no" />
-    <tag k="wheelchair" v="yes" />
-  </way>
   <way id="1156096720" version="1" timestamp="2023-03-21T16:34:46Z" changeset="133948192" uid="12529349" user="lxgwsierra">
     <nd ref="10751234848" />
     <nd ref="8710035527" />
@@ -3826,30 +3233,6 @@
     <nd ref="10751234976" />
     <nd ref="1129436356" />
   </way>
-  <way id="1171490383" version="3" timestamp="2023-06-01T08:44:40Z" changeset="136820283" uid="4892967" user="XD346">
-    <nd ref="10885787294" />
-    <nd ref="10943634248" />
-    <nd ref="10885787295" />
-    <nd ref="10885787296" />
-    <nd ref="10885787297" />
-    <nd ref="10885787298" />
-    <nd ref="10885787299" />
-    <nd ref="10885787300" />
-    <nd ref="10885787301" />
-    <nd ref="10943634251" />
-    <nd ref="10885787302" />
-    <nd ref="10943634250" />
-    <nd ref="10885787303" />
-    <nd ref="10885787304" />
-    <nd ref="10943634249" />
-    <nd ref="10943634245" />
-    <nd ref="10885799405" />
-    <nd ref="10943634246" />
-    <nd ref="10943634247" />
-    <nd ref="10885787294" />
-    <tag k="amenity" v="conference_centre" />
-    <tag k="name" v="深圳大学城国际会议中心" />
-  </way>
   <way id="1171490384" version="4" timestamp="2023-06-02T00:44:11Z" changeset="136850126" uid="4892967" user="XD346">
     <nd ref="10885799406" />
     <nd ref="10945218053" />
@@ -3884,59 +3267,6 @@
     <nd ref="2364241986" />
     <tag k="highway" v="service" />
   </way>
-  <way id="1178035089" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="10943634252" />
-    <nd ref="10943634253" />
-    <nd ref="6778993935" />
-    <nd ref="6778993936" />
-    <nd ref="6778993937" />
-    <nd ref="10943634254" />
-    <nd ref="6778993939" />
-    <nd ref="6778993932" />
-    <nd ref="10943634252" />
-    <tag k="alt_name" v="新能源与环境大楼" />
-    <tag k="name" v="清华大学能源环境大楼" />
-    <tag k="name:en" v="Energy &amp; Environment Building of Tsinghua University" />
-    <tag k="name:zh" v="清华大学能源环境大楼" />
-    <tag k="name:zh-Hans" v="清华大学能源环境大楼" />
-    <tag k="name:zh-Hant" v="清華大學能源環境大樓" />
-  </way>
-  <way id="1178035090" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="10943634252" />
-    <nd ref="6778993932" />
-    <nd ref="6778993933" />
-    <nd ref="6778993934" />
-    <nd ref="6778993935" />
-    <nd ref="10943634253" />
-    <nd ref="10943634252" />
-    </way>
-  <way id="1178035091" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993939" />
-    <nd ref="10943634254" />
-    <nd ref="6778993937" />
-    <nd ref="6778993938" />
-    <nd ref="6778993939" />
-    </way>
-  <way id="1178035092" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993921" />
-    <nd ref="6778993922" />
-    <nd ref="6778993925" />
-    <nd ref="6778993928" />
-    <nd ref="10943634228" />
-    <nd ref="10943634227" />
-    <nd ref="6778993929" />
-    <nd ref="6778993918" />
-    <nd ref="6778993919" />
-    <nd ref="6778993920" />
-    <nd ref="6778993921" />
-    </way>
-  <way id="1178035093" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993922" />
-    <nd ref="6778993923" />
-    <nd ref="6778993924" />
-    <nd ref="6778993925" />
-    <nd ref="6778993922" />
-    </way>
   <way id="1178035094" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
     <nd ref="6778993777" />
     <nd ref="6778993778" />
@@ -3948,20 +3278,6 @@
     <nd ref="6778993776" />
     <nd ref="6778993777" />
   </way>
-  <way id="1178035095" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993776" />
-    <nd ref="6778993775" />
-    <nd ref="6778993774" />
-    <nd ref="6778993783" />
-    <nd ref="6778993776" />
-    </way>
-  <way id="1178035096" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="6778993779" />
-    <nd ref="6778993912" />
-    <nd ref="6778993911" />
-    <nd ref="6778993780" />
-    <nd ref="6778993779" />
-    </way>
   <way id="1178035097" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
     <nd ref="10943634257" />
     <nd ref="10943634258" />
@@ -3976,13 +3292,6 @@
     <nd ref="10943634264" />
     <nd ref="10943634261" />
   </way>
-  <way id="1178035099" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <nd ref="10943634265" />
-    <nd ref="10943634266" />
-    <nd ref="10943634267" />
-    <nd ref="10943634268" />
-    <nd ref="10943634265" />
-    </way>
   <way id="1178215140" version="1" timestamp="2023-06-02T00:44:11Z" changeset="136850126" uid="4892967" user="XD346">
     <nd ref="10945218036" />
     <nd ref="10945218037" />
@@ -4092,64 +3401,12 @@
     <tag k="highway" v="footway" />
     <tag k="name" v="实验路径" />
   </way>
-  <relation id="7723084" version="6" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <member type="way" ref="539609831" role="outer" />
-    <member type="way" ref="539609832" role="inner" />
-    <tag k="name" v="E栋（水木楼）" />
-    <tag k="name:zh" v="E栋（水木楼）" />
-    <tag k="name:zh-Hans" v="E栋（水木楼）" />
-    <tag k="name:zh-Hant" v="E棟（水木樓）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="E" />
-    <tag k="smoking" v="no" />
-    <tag k="type" v="multipolygon" />
-    <tag k="wheelchair" v="yes" />
-  </relation>
-  <relation id="7723085" version="6" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <member type="way" ref="539609833" role="outer" />
-    <member type="way" ref="539609834" role="inner" />
-    <tag k="name" v="D栋（材料楼）" />
-    <tag k="name:zh" v="D栋（材料楼）" />
-    <tag k="name:zh-Hans" v="D栋（材料楼）" />
-    <tag k="name:zh-Hant" v="D棟（材料樓）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="D" />
-    <tag k="smoking" v="no" />
-    <tag k="type" v="multipolygon" />
-    <tag k="wheelchair" v="yes" />
-  </relation>
-  <relation id="7723086" version="6" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <member type="way" ref="539609835" role="outer" />
-    <member type="way" ref="539609836" role="inner" />
-    <tag k="name" v="C栋（机电楼）" />
-    <tag k="name:zh" v="C栋（机电楼）" />
-    <tag k="name:zh-Hans" v="C栋（机电楼）" />
-    <tag k="name:zh-Hant" v="C棟（機電樓）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="C" />
-    <tag k="smoking" v="no" />
-    <tag k="type" v="multipolygon" />
-    <tag k="wheelchair" v="yes" />
-  </relation>
   <relation id="7723087" version="1" timestamp="2017-11-10T10:10:09Z" changeset="53662402" uid="4892967" user="XD346">
     <member type="way" ref="539609838" role="outer" />
     <member type="way" ref="539609839" role="inner" />
     <tag k="area" v="yes" />
     <tag k="leisure" v="track" />
     <tag k="type" v="multipolygon" />
-  </relation>
-  <relation id="7723088" version="6" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <member type="way" ref="539609842" role="outer" />
-    <member type="way" ref="539609843" role="inner" />
-    <tag k="name" v="B栋（社科楼）" />
-    <tag k="name:zh" v="B栋（社科楼）" />
-    <tag k="name:zh-Hans" v="B栋（社科楼）" />
-    <tag k="name:zh-Hant" v="B棟（社科樓）" />
-    <tag k="operator" v="哈尔滨工业大学" />
-    <tag k="ref" v="B" />
-    <tag k="smoking" v="no" />
-    <tag k="type" v="multipolygon" />
-    <tag k="wheelchair" v="yes" />
   </relation>
   <relation id="12531419" version="2" timestamp="2022-07-07T14:28:21Z" changeset="123323240" uid="4027611" user="Coco418cheng">
     <member type="way" ref="925521817" role="outer" />
@@ -4892,20 +4149,4 @@
     <tag k="wikidata" v="Q15908712" />
     <tag k="wikipedia" v="zh:清华大学深圳国际研究生院" />
   </relation>
-  <relation id="15926709" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <member type="way" ref="1178035094" role="outer" />
-    <member type="way" ref="1178035097" role="inner" />
-    <tag k="type" v="multipolygon" />
-  </relation>
-  <relation id="15926710" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <member type="way" ref="1178035097" role="outer" />
-    <member type="way" ref="1178035098" role="inner" />
-    <tag k="type" v="multipolygon" />
-  </relation>
-  <relation id="15926711" version="1" timestamp="2023-06-01T08:40:15Z" changeset="136820094" uid="4892967" user="XD346">
-    <member type="way" ref="1178035098" role="outer" />
-    <member type="way" ref="1178035099" role="inner" />
-    <tag k="type" v="multipolygon" />
-  </relation>
-
-</osm>
+  </osm>
